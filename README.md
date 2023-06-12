@@ -5,4 +5,6 @@ What I learned:
 - loops through game function 5 times 
 - game results printed to console
 
+Live Demo
+<hr>
 [Rock Paper Scissors Game](https://codenintrovert.github.io/rockpaperscissors/)
